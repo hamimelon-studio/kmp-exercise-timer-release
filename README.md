@@ -2,8 +2,6 @@
 
 **A beautifully crafted cross-platform timer app** built with **Kotlin Multiplatform (KMP)** — designed for workouts, focus, and flow.
 
-![App Preview](screenshots/screenshot-main.png)
-
 ---
 
 ## 🚀 Overview
@@ -56,26 +54,31 @@ From workouts to Pomodoro sessions to daily flow tracking, it’s built to help 
 ## 📸 Screenshots
 
 ### ⏱️ Timer Modes Overview
-
-| Countdown | Stopwatch | Flow | Tomato | Gym Rest |
-|------------|------------|------|---------|-----------|
-| ![Countdown](screenshots/countdown_timer.png) | ![Stopwatch](screenshots/stopwatch.png) | ![Flow](screenshots/timer_flow.png) | ![Tomato](screenshots/tomato_clock.png) | ![GymRest](screenshots/gymrest_notification.png) |
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+  <img src="screenshots/countdown_timer.png" width="220" />
+  <img src="screenshots/stopwatch.png" width="220" />
+  <img src="screenshots/timer_flow.png" width="220" />
+  <img src="screenshots/tomato_clock.png" width="220" />
+  <img src="screenshots/gymrest_notification.png" width="220" />
+</div>
 
 ---
 
 ### ⏰ Alarm Clock Screens
-
-| Alarm Clock | Set Alarm | Weekdays |
-|--------------|------------|-----------|
-| ![Alarm Clock](screenshots/alarm_clock.png) | ![Alarm Set](screenshots/alarm_set.png) | ![Alarm Weekdays](screenshots/alarm_weekdays.png) |
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+  <img src="screenshots/alarm_clock.png" width="220" />
+  <img src="screenshots/alarm_set.png" width="220" />
+  <img src="screenshots/alarm_weekdays.png" width="220" />
+</div>
 
 ---
 
 ### 🧭 Navigation & Timer List
-
-| Timer List | Edit Timers | Navigation Menu |
-|-------------|--------------|------------------|
-| ![Timer List](screenshots/timer_list.png) | ![Edit Timer List](screenshots/edit_timer_list.png) | ![Navigation Menu](screenshots/nav_menu.png) |
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+  <img src="screenshots/timer_list.png" width="220" />
+  <img src="screenshots/edit_timer_list.png" width="220" />
+  <img src="screenshots/nav_menu.png" width="220" />
+</div>
 
 ---
 
